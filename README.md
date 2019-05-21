@@ -1,2 +1,2 @@
-# MNIST-Google-Colab
-Beginner attempt for MNIST using simple CNN on Google Colab  
+# MNIST Kaggle
+Beginner attempt for MNIST using simple CNN on Kaggle - 99.228 Success on Kaggle test. 
